@@ -1,10 +1,10 @@
 #some conky scripts
 Here are their screenshots
 **.conkyrc_1**
-![alt tag](http://s32.postimg.org/og18y8aqd/image.png "conkyrc_1 ScreenShot")
+ ![alt tag](http://s32.postimg.org/og18y8aqd/image.png "conkyrc_1 ScreenShot")
 
 **.conkyrc_2**
-![alt tag](http://s32.postimg.org/94iqj8e39/ss2.png "conkyrc_2 ScreenShot")
+ ![alt tag](http://s32.postimg.org/94iqj8e39/ss2.png "conkyrc_2 ScreenShot")
 
 
 If you say "damn I want those too", here is the installaion manual.
