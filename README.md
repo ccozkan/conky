@@ -11,7 +11,7 @@
 ![alt tag](http://s32.postimg.org/94iqj8e39/ss2.png "conkyrc_2 ScreenShot")
 
 If you say "damn I want those too", here is the installaion manual.
-Download the stuff
+
 ```bash
 #Download the stuff
 git clone https://github.com/ozkc/conky
