@@ -1,4 +1,6 @@
 #some conky scripts
+
+
 Here are their screenshots
 **.conkyrc_1**
  ![alt tag](http://s32.postimg.org/og18y8aqd/image.png "conkyrc_1 ScreenShot")
@@ -8,7 +10,6 @@ Here are their screenshots
 
 
 If you say "damn I want those too", here is the installaion manual.
-Download the stuff
 
 ```
 #Download the stuff
